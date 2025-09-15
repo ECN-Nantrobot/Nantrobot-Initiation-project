@@ -17,7 +17,6 @@ The documentation is designed to be progressive:
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="##Introduction">Introduction</a></li>
-    <li><a href="##Wiring">Wiring</a></li>
   </ol>
 </details>
 
@@ -26,11 +25,6 @@ The documentation is designed to be progressive:
 2. [Wiring](#wiring)
    1. [Step-by-Step Wiring Guide](#step-by-step-wiring-guide)
    2. [Full Schematic](#full-schematic)
-3. [Writing the Code](#writing-the-code)
-   1. [Introduction to Arduino Coding](#introduction-to-arduino-coding)
-   2. [Programming the Motors](#programming-the-motors)
-   4. [Programming and Setting Detection Values for the Sensors](#programming-and-setting-detection-values-for-the-sensors)
-4. [Combining the Motors and Sensors](#combining-the-motors-and-sensors)
 
 
 
